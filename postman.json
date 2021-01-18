@@ -1,0 +1,6 @@
+{
+    "name" : "财务后台基础数据",
+    "description" : "接口",
+    "host" : "ps-finance-data",
+    "auth" : "NO"
+}
