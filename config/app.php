@@ -17,7 +17,7 @@ use Uniondrug\Validation\ValidationServiceProvider;
 return [
     'default' => [
         'debug' => false,// 调试开关
-        'appName' => 'ps-finance-data',// 应用名称
+        'appName' => 'tsgo',// 应用名称
         'appVersion' => '1.0.0',
         'useAnnotationRouter' => true,// 是否启用注解路由
         // 服务注册入口
